@@ -1,10 +1,10 @@
-### Hi there, I'm <a href="http://my-portfolio-maket.netlify.app/" target="_blank">MukhxammadAli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Hi there, I'm <a href="http://my-portfolio-maket.netlify.app/" target="_blank">MukhammadAli</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ### How to reach me: <a href="muxammadali7707@gmail.com">muxammadali7707@gmail.com</a>
 
-<a href="https://instagram.com/01muhammadsodiq?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
-<a href="https://t.me/mukhammadsodiq01" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
-<a href="https://www.linkedin.com/in/mukhammadsodiq-koziyev-3b0a06241/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
+<a href="https://www.instagram.com/muxammadali7707/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+<a href="https://t.me/MukhammadAli_7707" target="_blank"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?&style=flat-square&logo=telegram&logoColor=white%22%20alt=%22Telegram"></a>
+<a href="https://www.linkedin.com/in/muxammad-ali-0345a3218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat-square&logo=LinkedIn&logoColor=white%22%20alt=%22LinkedIn"></a>
 
 
 ## 
